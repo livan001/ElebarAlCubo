@@ -1,6 +1,7 @@
 
-def ElevarAlCubo(numero):
-    return numero ** 3
 
+def ElevarAlCubo(n):
+    return n * n * n
 
-print("El numero elevado al Cubo es:", ElevarAlCubo(2))
+print("El número elevado al cubo es:", ElevarAlCubo(2))
+
